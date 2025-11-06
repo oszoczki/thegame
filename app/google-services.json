@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500291084819",
+    "project_id": "thegame-ac583",
+    "storage_bucket": "thegame-ac583.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500291084819:android:7018f9144987b4de5955e6",
+        "android_client_info": {
+          "package_name": "com.example.thegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA4gK6lw0ZwGFsn3tSAijIPYHWXsaoBdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
